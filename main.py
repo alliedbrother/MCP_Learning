@@ -1,14 +1,8 @@
-# /// script
-# requires-python = ">=3.9"
-# dependencies = [
-#     "requests",
-#     "rich",
-# ]
-# ///
 
 import sys
 from rich import print 
 import requests
+import pygame
 
 
 print(sys.version)
